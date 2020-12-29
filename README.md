@@ -1,4 +1,4 @@
-### Hi there👋
+## Hi there👋
 I'm Jetal the Web developer(Lvl-1) from India, a JavaScript front-end developer and also create JSON API's and like to play with database by profession. I'm a newbie to MERN, really enjoy learning and exploring languages and framewworks like React, Express, Node JS.
 
 - I am currently learning [Alogirthms and Data Structures](/https://github.com/MaliJetal/JSInterviewQuestions "Alogirthm and Data Structure").
@@ -18,5 +18,6 @@ I'm Jetal the Web developer(Lvl-1) from India, a JavaScript front-end developer 
 ![Jetal's github stats](https://github-readme-stats.vercel.app/api?username=MaliJetal)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaliJetal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-Pinned Repo:
+### Pinned Repo:
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MaliJetal&repo=MERN-APP)](https://github.com/anuraghazra/github-readme-stats)
