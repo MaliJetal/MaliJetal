@@ -6,7 +6,7 @@ I'm Jetal the Web developer(Lvl-1) from India, a JavaScript front-end developer 
 - You can ask anything [here](https://github.com/MaliJetal/MaliJetal/issues).
 - Getting myself into [React.js](https://reactjs.org/).
 
-<p align="center">
+<p>
    Want to know more about me... Let's connect!
 </p>
   
