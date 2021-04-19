@@ -16,7 +16,7 @@ I'm Jetal the Web developer(Lvl-1) from India, a JavaScript front-end developer 
 [![Icon of Skype](https://github.com/MaliJetal/MaliJetal/blob/main/HR-icon.png)](https://www.hackerrank.com/malijetal1234)
 
 ![Jetal's github stats](https://github-readme-stats.vercel.app/api?username=MaliJetal)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaliJetal&layout=compact)](https://github.com/MaliJetal)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaliJetal&layout=compact)](https://github.com/MaliJetal/MERN-APP)
 
 ### Pinned Repo:
 
