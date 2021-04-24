@@ -20,4 +20,4 @@ I'm Jetal the Web developer(Lvl-1) from India, a JavaScript front-end developer 
 
 ### Pinned Repo:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MaliJetal&repo=MERN-APP)](https://github.com/MaliJetal/MERN-APP)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MaliJetal&repo=Personal-Portfolio)](https://github.com/MaliJetal/Personal-Portfolio)
