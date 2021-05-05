@@ -22,4 +22,4 @@ I'm Jetal the Web developer(Lvl-1) from India, a JavaScript front-end developer 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MaliJetal&repo=Personal-Portfolio)](https://github.com/MaliJetal/Personal-Portfolio)
 
-##Happy Coding!
+## Happy Coding!
