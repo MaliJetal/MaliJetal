@@ -17,7 +17,7 @@ I have quite work with MERN applications, build up some beautiful web applicatio
 [![Icon of Skype](https://github.com/MaliJetal/MaliJetal/blob/main/HR-icon.png)](https://www.hackerrank.com/malijetal1234)
 
 ![Jetal's github stats](https://github-readme-stats.vercel.app/api?username=MaliJetal)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaliJetal&layout=compact)](https://github.com/MaliJetal/Dev_Community)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaliJetal&layout=compact)](https://github.com/MaliJetal/react-testing-projects)
 
 ### Pinned Repo:
 
