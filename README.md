@@ -1,6 +1,6 @@
 ## Hi there👋 
 I'm Jetal the Web developer(Lvl-1) from India, a JavaScript front-end developer and also create JSON API's and like to play with database by profession. I'm a newbie to MERN, really enjoy learning and exploring languages and framewworks like React, Express, Node JS.
-I have quite work with MERN applications, build up some beautiful web applications, do check out my repository and follow if you findd needful.
+I have quite work with MERN applications, build up some beautiful web applications,  do check out my repository and follow if you findd needful.
 
 - I am currently learning [Alogirthms and Data Structures](/https://github.com/MaliJetal/JSInterviewQuestions "Alogirthm and Data Structure").
 - Ongoing project is [Mern Application- Developer Social Network](https://github.com/MaliJetal/MERN-APP).
