@@ -8,7 +8,7 @@ I have quite work with MERN applications, build up some beautiful web applicatio
 - Getting myself into [React.js](https://reactjs.org/).
 
 <p>
-   Want to know more about me... Let's connect!
+    Want to know more about me... Let's connect!
 </p>
   
 [![Icon of Linkedin](https://github.com/MaliJetal/MaliJetal/blob/main/linkedin-box-fill.png)](https://www.linkedin.com/in/jetal-mali/)
