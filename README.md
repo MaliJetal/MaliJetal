@@ -9,7 +9,7 @@ I have work with MERN applications, build up some beautiful web applications, do
 - Getting myself into [React.js](https://reactjs.org/).
 
 <p>
-    Want to know more about me... Let's connect!
+    Want to know more about me... Let's connect! 
     
 </p>
   
