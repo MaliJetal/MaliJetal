@@ -22,7 +22,7 @@ I have work with MERN applications, build up some beautiful web applications, do
 ![Jetal's github stats](https://github-readme-stats.vercel.app/api?username=MaliJetal)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaliJetal&layout=compact)](https://github.com/MaliJetal/react-testing-projects)
 
-### Pinned Repo:
+### Pinned Repo - 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MaliJetal&repo=Personal-Portfolio)](https://github.com/MaliJetal/Personal-Portfolio)
 
