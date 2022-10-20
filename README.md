@@ -26,5 +26,6 @@ I have work with MERN applications, build up some beautiful web applications, do
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MaliJetal&repo=Personal-Portfolio)](https://github.com/MaliJetal/Personal-Portfolio)
 
+
 ## Happy Coding! 
 
