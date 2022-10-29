@@ -1,13 +1,12 @@
 ## Hi there👋 
-I'm Jetal the Web developer(Lvl-2) from Publicis Sapient, a JavaScript front-end developer and also create JSON API's and like to play with database by profession. I'm a newbie to MERN, really enjoy learning and exploring languages and framewworks like ReactJS.
+I'm Jetal the Web developer(Lvl-2) from Publicis Sapient, a JavaScript ReactJS Front-end developer, motive to make UI experiences amazing and smooth. Love to learn and explore library ReactJS, Redux and many more.
 
-I have work with MERN applications, build up some beautiful web applications, do check out my repository and follow if you find needful.
+A newbie on MERN stack development build up some beautiful web applications, do check out my repository and follow if you find needful.
 
 - I am currently learning [Alogirthms and Data Structures](/https://github.com/MaliJetal/JSInterviewQuestions "Alogirthm and Data Structure").
 - Ongoing project is [Mern Application- Developer Social Network](https://github.com/MaliJetal/MERN-APP).
 - You can ask anything [here](https://github.com/MaliJetal/MaliJetal/issues).
 - Getting myself into [React.js](https://reactjs.org/).
-- 
 
 <p>
     Want to know more about me... Let's connect! 
