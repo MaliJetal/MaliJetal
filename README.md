@@ -1,5 +1,5 @@
 ## Hi there👋 
-I'm Jetal the Web developer(Lvl-2) from Publicis Sapient, 3.5 years of experience as a JavaScript ReactJS Front-end developer, motive to make UI experiences amazing and smooth. Love to learn and explore library ReactJS, Redux and many more.
+I'm Jetal the Web developer(Lvl-2) from Publicis Sapient, 5 years of experience as a JavaScript ReactJS Front-end developer, motive to make UI experiences amazing and smooth. Work in ReactJS, Redux, Typescript, NextJs GraphQL, Wepback, Github, Git.
 
 A newbie on MERN stack development build up some beautiful web applications, do check out my repository and follow if you find needful.
 
